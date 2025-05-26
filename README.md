@@ -1,9 +1,10 @@
 # Network_Class
 
 Computer and Networks Homework 2
-Simulating a client-server interaction with C++ socket programming
+Simulating a client-server interaction with C++ socket programming.
+
 ## Installation and Running
-1. clone the repo
+1. Clone the repo
 ```bash
 git clone https://github.com/HermanCS-07/Computer-Networks-HW-2.git
 ```
@@ -28,5 +29,5 @@ In another terminal, run the client:
 ```
 
 ## Authors
-I Putu Herjuna Manasye Suarthana (23/511460/PA/21801)
-Lecturer: Muhammad Husni Santriaji S.Si., M.T., M.S., Ph.D.
+- I Putu Herjuna Manasye Suarthana (23/511460/PA/21801)
+- Lecturer: Muhammad Husni Santriaji S.Si., M.T., M.S., Ph.D.
