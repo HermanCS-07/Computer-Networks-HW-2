@@ -1,6 +1,6 @@
 # Network_Class
 
-Computer and Networks Homework 2
+Computer and Networks Homework 2:
 Simulating a client-server interaction with C++ socket programming.
 
 ## Installation and Running
