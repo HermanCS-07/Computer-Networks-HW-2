@@ -6,7 +6,7 @@ Simulating a client-server interaction with C++ socket programming.
 ## Installation and Running
 1. Clone the repo
 ```bash
-git clone https://github.com/HermanCS-07/Computer-Networks-HW-2.git
+git clone https://github.com/manasyesuarthana/Computer-Networks-HW-2.git
 ```
 
 2. Clean the binaries
